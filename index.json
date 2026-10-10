@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "uvicorn-gunicorn-fastapi-docker",
+  "versions": [
+    {
+      "commit": "c93bb25d29df09a5a19ebaa4ea533aa6c63b637e",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:39:34.868844+00:00"
+    }
+  ]
+}
