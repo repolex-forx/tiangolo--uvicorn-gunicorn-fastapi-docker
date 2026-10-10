@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn-gunicorn-fastapi-docker/commit/c93bb25d29df09a5a19ebaa4ea533aa6c63b637e",
       "git:hexsha": "c93bb25d29df09a5a19ebaa4ea533aa6c63b637e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn-gunicorn-fastapi-docker/commit/30478e5d50c233c6b0e7c2ea0b89bb9b75918386",
